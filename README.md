@@ -1,8 +1,12 @@
-- 👋 Hi, I’m A S Swan
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on app development and software coding
-- 📫 How to reach me swanas41@gmail.com
+# Hi, I'm Swan 👋  
+
+💻 **Software Engineer @ White Rabbit Group**  
+🎓 CUSAT Graduate | 🚀 Tech Enthusiast | 🧠 Problem Solver  
+
+- 🔨 Currently building: Mess Management App & Stock/Franchise Management System  
+- 🤖 Exploring AI/ML, GenAI, RAG, and scalable backend systems  
+- ⚡ Believe everything is technically possible  
+- 🌱 Fast learner, always experimenting with new stacks  
 
 <!---
 SwanSkynet/SwanSkynet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
